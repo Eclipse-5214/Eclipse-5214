@@ -3,13 +3,14 @@
 </p>
 
 <h2 align="center">Welcome to my profile!</h2>
-
+---
 <p align="center"> I am a hobby developer from the US, mainly focused on developing mods for [Hypixel Skyblock](https://hypixel.net/). </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
     <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Eclipse-5214&count_private=true&show_icons=true&theme=aura" />
   </a>
 </p>
+---
 
 ### Some Things I Have Done
 
