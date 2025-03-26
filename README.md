@@ -4,7 +4,7 @@
 
 I am a hobby developer from the US, mainly focused on developing mods for [Hypixel Skyblock](https://hypixel.net/).
 
-[![Eclipse-5214's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eclipse-5214&count_private=true&show_icons=true&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+[![Eclipse-5214's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eclipse-5214&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Some Things I Have Done
 
