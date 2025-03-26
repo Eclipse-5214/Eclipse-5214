@@ -1,10 +1,15 @@
-<img src="https://avatars.githubusercontent.com/u/83417472?v=4" width="100"/>
+<p align="center">
+  <img src="https://avatars.githubusercontent.com/u/83417472?v=4" width="100"/>
+</p>
 
 ## Welcome to my profile!
 
-I am a hobby developer from the US, mainly focused on developing mods for [Hypixel Skyblock](https://hypixel.net/).
-
-[![Eclipse-5214's GitHub stats](https://github-readme-stats.vercel.app/api?username=Eclipse-5214&count_private=true&show_icons=true&theme=aura)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center"> I am a hobby developer from the US, mainly focused on developing mods for [Hypixel Skyblock](https://hypixel.net/). </p>
+<p align="center">
+  <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
+    <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Eclipse-5214&count_private=true&show_icons=true&theme=aura" />
+  </a>
+</p>
 
 ### Some Things I Have Done
 
