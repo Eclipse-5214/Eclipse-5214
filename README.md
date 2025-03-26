@@ -13,7 +13,7 @@ I am a hobby developer from the US, mainly focused on developing mods for [Hypix
 
 ### My socials
 
- * Discord: @Eclipse-5214
+ * Discord: @eclipse5214
  * YouTube: [@Eclipse5214](https://www.youtube.com/@Eclipse5214)
  * Geometry Dash: Eclipse5214
  * Minecraft: NEXD_
