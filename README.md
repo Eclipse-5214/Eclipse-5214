@@ -2,9 +2,7 @@
   <img src="https://avatars.githubusercontent.com/u/83417472?v=4" width="100"/>
 </p>
 
-<p align="center">
- <h2>Welcome to my profile!</h2>
-</p>
+<h2 align="center">Welcome to my profile!</h2>
 
 <p align="center"> I am a hobby developer from the US, mainly focused on developing mods for [Hypixel Skyblock](https://hypixel.net/). </p>
 <p align="center">
