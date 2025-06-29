@@ -8,7 +8,7 @@
 <p align="center"> I am a hobby developer from the US, mainly focused on developing mods for <a href="https://hypixel.net/">Hypixel Skyblock</a>. </p>
 <p align="center">
   <a href="https://github.com/anuraghazra/github-readme-stats" target="_blank">
-    <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Eclipse-5214&count_private=true&show_icons=true&theme=aura" />
+    <img alt="Github stats" src="https://github-readme-stats.vercel.app/api?username=Eclipse-5214&count_private=true&show_icons=true&theme=aura" /> </br>
     <img alt="Github code" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eclipse-5214&layout=compact" />
     ![Top Langs]()
   </a>
